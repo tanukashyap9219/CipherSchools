@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CipherStudio — Browser-based React IDE (MVP)
 
 **CipherStudio** is a browser-based React IDE that allows users to create/manage multiple files, write React components, run code live in the browser, and save/load projects. Built as an MVP using React, Vite, Sandpack, and an Express + MongoDB backend.
@@ -35,3 +36,7 @@
 ---
 
 ## Project structure
+=======
+# CipherSchools
+A browser-based React IDE built with Sandpack — write, edit, and preview React code instantly.
+>>>>>>> f53216bb685d39d2809405d20ab11bfabb093857
